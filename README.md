@@ -6,4 +6,4 @@ For best results, set Desmos X-Axis from 0 <= x <= 24, the Y-Axis from 0 <= y <=
 
 Unfortunately, as far as I know Desmos only grants you one octave of range, and can only be made to play about 20s of graph at a time.
 
-If you would like to try it, you can just download this script and paste it wherever you like to keep reascripts, and then run it in reaper :)
+If you would like to try it, you can just download this script and put it wherever you like to keep reascripts, and then run it in reaper :)
